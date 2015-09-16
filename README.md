@@ -2,5 +2,6 @@
 To form an awesome form.
 
 -----
-> Make great interact effect of form, e.g. mi.com
-> Dynamic form builder, e.g. ResourceLibrary
+
+1. Make great interact effect of form, e.g. mi.com
+2. Dynamic form builder, e.g. ResourceLibrary
